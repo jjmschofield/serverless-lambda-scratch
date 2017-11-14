@@ -28,6 +28,7 @@ This project sets out to explore a Serverless application stack for use as learn
 ## TODO
 * Linting
 * Unit tests
+* Generate Documentation
 
 ## Contributing
 This project is for the benefit of the author.  In the future contributions might be invited, should the repository prove to be a useful reference for others.
