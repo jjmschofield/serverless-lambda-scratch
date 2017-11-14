@@ -24,10 +24,18 @@ This project sets out to explore a Serverless application stack for use as learn
 ## Branching Strategy
 **There is no branching strategy.**
 
+
+## TODO
+* Linting
+* Unit tests
+
 ## Contributing
 This project is for the benefit of the author.  In the future contributions might be invited, should the repository prove to be a useful reference for others.
- 
- 
+  
 ## Resources
 * https://cloudacademy.com/blog/how-to-write-graphql-apps-using-aws-lambda/ 
 * https://auth0.com/blog/building-serverless-apps-with-aws-lambda/ 
+
+## Personal Learning List
+* GraphQL
+  * Review all available types
