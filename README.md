@@ -3,7 +3,7 @@
 This project sets out to explore a Serverless application stack for use as learning and reference in other projects.
 
 ## Project Objectives
-* A full "backend" application capable of mobile and browser clients
+* A full "backend" application of supporting both mobile and browser clients
 * Interaction with application will be by HTTP requests
 * GraphQL (in preference to REST) will be used to request and mutate data
 * Interactions will be authorised
